@@ -1,7 +1,5 @@
 # encryption-tool
-An encryption/decryption tool used for encrypting/decrypting messages and files
-
-# A powerful encryption/decryption tool designed for secure communication and data protection. It enables users to encrypt and decrypt messages and files with ease, ensuring confidentiality and privacy.
+A powerful encryption/decryption tool designed for secure communication and data protection. It enables users to encrypt and decrypt messages and files with ease, ensuring confidentiality and privacy.
 
 ## Features
 
