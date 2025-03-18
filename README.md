@@ -1,4 +1,5 @@
 # encryption-tool
+## C.A.S.T.L.E. (Crytographic Algorithm for Secure Transmission and Lasting Encryption)
 A powerful encryption/decryption tool designed for secure communication and data protection. It enables users to encrypt and decrypt messages and files with ease, ensuring confidentiality and privacy.
 
 ## Features
