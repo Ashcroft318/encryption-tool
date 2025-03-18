@@ -1,0 +1,57 @@
+Set Theory : Set, Element, Subset, Proper Subset, Union, Intersection, One-to- Many, Onto
+
+-> set is basically a collection of unique items/objects: set A = { 1,2,3,4}
+
+-> these unique items/objects, they're usually denoted as by this: ∈ 
+
+ex: set A = {1,2,3,4}
+
+1 ∈ A, but {1} ∉  A*
+
+{1}  ∉  A 
+
+-> ⊆ - denotation of what is known as a subset - can be described as a set that contains all elements of another set.
+
+ex: set A = { 1,2,3}  set B = {1,2,3,4,5}
+
+A ⊆ B, B ⊄ A
+
+-> ⊂ - denotation of what is known as a proper subset- a set that contains some, but not all, of the members of another set.
+
+ex: set A = {1,3,5} and set B = {1,5}
+
+A ⊂ B
+
+-> U - denotation of what is known as a Union - sets can be combined and related to each other.
+
+ex: set A = { 1,2,3}  and set B = { 4,5}
+
+A U B = { 1,2,3,4,5}
+
+-> ∩ - denotation of what is known as Intersection - defined as a set composed of al elements that belong to both A and B.
+
+A = { 1,2,3,7,8}
+B = {5,6,7,8}
+
+A ∩ B = {7,8}
+
+
+-> Injective (One-to-Many)- if for all x and y in the domain, whenever f(x) = f(y), then x = y. 
+
+x (domain)                   f(x) = x + 2 (codomain)
+
+1                       3
+2                       4
+3                       5
+4                       6
+
+-> Surjective (Onto) - is a function f such that, for every element y of function's codomain,  there exists at least one element x in the function's domain such that f(x) = y
+
+ex: x = 1 and  f(1) = 3, x = 2 and f(2) = 3
+
+
+-> Bijective - if a function f: A -> B satisfies both the injective and surjective properties.
+
+
+
+
